@@ -29,11 +29,10 @@
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 
 
+https://user-images.githubusercontent.com/32703659/174162741-b21d643f-53c6-46e1-a26a-8dd12f58e04e.mp4
+
 ## Screenshots
 <div align="center">
-  <div class="row">
-    <img src="assets/demo/demo.mp4" alt="video_demo" style="width:20%">
-  </div>
   <br>
   <div class="row">
     <img src="assets/demo/0.png" alt="Screenshot_0" style="width:20%">
