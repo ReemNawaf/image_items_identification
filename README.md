@@ -1,8 +1,8 @@
 <p align="center">
   
-  <img src="assets/logo.png" alt="Logo" width=72 height=72>
+<!--   <img src="assets/logo.png" alt="Logo" width=72 height=72> -->
   
-  <h3 align="center">Invitation Generator</h3>
+  <h3 align="center">Image Items Identification</h3>
 
   <p align="center">
 <!--     project to help Dash (the mascot of Flutter framework) in creating and sharing invitations with her friends :purple_heart:.
@@ -32,13 +32,13 @@ This is a normal flutter app. You should follow the instructions in the [officia
 ## Screenshots
 <div align="center">
   <div class="row">
-    <img src="assets/demo/demo.mp4" alt="Screenshot_1" style="width:20%">
+    <img src="assets/demo/demo.mp4" alt="video_demo" style="width:20%">
   </div>
   <br>
   <div class="row">
-    <img src="assets/demo/0.png" alt="Screenshot_5" style="width:20%">
-    <img src="assets/demo/1.png" alt="Screenshot_6" style="width:20%">
-    <img src="assets/demo/2.png" alt="Screenshot_7" style="width:20%">
+    <img src="assets/demo/0.png" alt="Screenshot_0" style="width:20%">
+    <img src="assets/demo/1.png" alt="Screenshot_1" style="width:20%">
+    <img src="assets/demo/2.png" alt="Screenshot_2" style="width:20%">
   </div>
   <br>
 </div>
